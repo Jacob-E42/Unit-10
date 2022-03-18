@@ -1,0 +1,7 @@
+const PI = 3.14;
+
+//Questions
+1. var has funciton scope and can be redeclared, let has block scope and can't be redeclared.
+2. var has funciton scope and can be redeclared and reassigned, const has block scope and can't be reassigned or redeclared.
+3. let can be reassigned, const cannot.
+4. A feature of var, where a variable is treated as having been declared at the top of the file. 
